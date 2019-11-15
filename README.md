@@ -1,6 +1,6 @@
 # ADM-HW3-Group7
 
-This repository gathers all the files of group 10.
+This repository gathers all the files of group 7.
 
 In this folder, you will find :
 
